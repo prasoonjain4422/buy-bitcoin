@@ -1,0 +1,62 @@
+
+
+
+===============================================================
+A Remote Procedure Call or RPC node is a type of computer server that allows 
+users to read data on the blockchain and send transactions to different networks
+
+
+Crypto exchanges neither buy nor sell crypto-currency they just make sellers 
+and buyers meet and trade
+
+
+
+===============================================================
+Setting Test wallets
+https://www.bitaddress.org/bitaddress.org-v3.3.0-SHA256-dec17c07685e1870960903d8f58090475b25af946fe95a734f88408cef4aa194.html?testnet=true
+
+
+===============================================================
+Get test coins from here - https://coinfaucet.eu/en/btc-testnet/
+===============================================================
+testnet wallet1
+
+address: mjv2C5M4bUfmDTYZn9JdvCRDcGj7gEvd6E
+
+key: cRj1EF6qtTnpxSA96AUGLKzdCtBk1i9PnpJw88gq9nFDRi5RhjPs
+===============================================================
+testnet wallet2
+
+address: n2H859x9y98hy7RU74GAGnZ8zPCduypaQg
+
+key: cVEihFxuE8rWK9BUm2T89JRe711JQBBCE21N6CuscnyzWPGwQk82
+
+===============================================================
+Websites I visited:
+
+
+https://blockstream.info/
+https://github.com/Blockstream/esplora/blob/master/API.md#get-addressaddress
+https://sochain.com/
+https://blockstream.info/testnet/
+
+https://www.bitaddress.org/bitaddress.org-v3.3.0-SHA256-dec17c07685e1870960903d8f58090475b25af946fe95a734f88408cef4aa194.html?testnet=true
+
+https://api.blockcypher.com/v1/btc/test3/txs/e1ca694dc578bce0db59e47f059feabb5ed0c41af813b04abe9bc2112770401a?limit=50&includeHex=true
+
+https://live.blockcypher.com/btc-testnet/tx/e1ca694dc578bce0db59e47f059feabb5ed0c41af813b04abe9bc2112770401a/
+
+
+
+===============================================================
+Wallets types
+
+
+
+
+
+
+===============================================================
+
+
+
